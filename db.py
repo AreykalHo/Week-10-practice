@@ -1,8 +1,8 @@
 import mysql.connector
 
-# 1. 2022113ho - Ho Areykal
-# 2. 2022167chun - Chun Phallamonunhh
-# 3. 2022128sophal - Sophal Kalyanchheny
+# 1. 2022113 - Ho Areykal
+# 2. 2022167 - Chun Phallamonunhh
+# 3. 2022128 - Sophal Kalyanchheny
 
 # TODO:
 # host can be 'localhost' or '127.0.0.1'
